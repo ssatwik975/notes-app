@@ -81,8 +81,8 @@
 
 ## 🤝 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/M-Attaullah) [*M-Attaullah*](https://github.com/M-Attaullah)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-attaullah-705764333/) [*Muhammad Attaullah*](https://www.linkedin.com/in/muhammad-attaullah-705764333/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/ssatwik975) [*Satwik Singh*](https://github.com/ssatwik975)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/singhsatwik/) [*Satwik Singh*](https://www.linkedin.com/in/singhsatwik/)
 
 ---
 
