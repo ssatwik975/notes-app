@@ -47,7 +47,6 @@
 | Auth             | Firebase Auth     |
 | Backend          | Cloud Firestore   |
 | State Management | Provider          |
-| IDE              | Android Studio    |
 | Architecture     | MVVM              |
 
 ---
