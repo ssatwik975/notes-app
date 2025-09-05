@@ -86,5 +86,5 @@
 
 ---
 
-> 🛠️ *Note:*  This project was developed as part of an internship task to demonstrate skills in Firebase integration, Flutter UI/UX design, and scalable app architecture using Provider and MVVM.
+> 🛠️ *Note:*  This project was developed to demonstrate skills in Firebase integration, Flutter UI/UX design, and scalable app architecture using Provider and MVVM.
 
