@@ -1,12 +1,12 @@
-# 🗒️ My Notes App – Flutter-Based Personal Note Keeper
+# Notes App 
 
-## 🚀 Project Overview
+## Project Overview
 
 **My Notes App** is a sleek and intuitive note-taking app developed using **Flutter** and **Dart**. It allows users to create, view, update, and delete notes in real-time. Featuring modern UI design, secure authentication via Firebase, and efficient state management with Provider, it offers a responsive and user-friendly experience across devices.
 
 ---
 
-## 🌟 Features
+## Features
 
 - 🔐 **User Authentication**
   - Sign in using email & password via Firebase Auth.
@@ -38,7 +38,7 @@
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 | Category         | Technology        |
 |------------------|-------------------|
@@ -51,7 +51,7 @@
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 | 🏠 Home Screen | ➕ Add Note Screen | 👤 Register Screen | 🔐 Login Screen |
 |----------------|-------------------|---------------------|----------------|
@@ -59,31 +59,22 @@
 
 ---
 
-## 📦 Getting Started
+## Getting Started
 
 1. Clone the repository.
 2. Open in *Android Studio*.
 3. Run flutter pub get to fetch dependencies.
 4. Launch using an emulator or connected device with flutter run.
 
----
-
-## 🔮 Future Enhancements
-
-- 🔍 Search and filter notes
-- 📌 Note pinning and archiving
-- 🔔 Implement notification reminders.
-- ☁ Cloud backup support
-- 🧠 AI-based smart notes summarization
 
 ---
 
-## 🤝 Connect with Me
+## Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/ssatwik975) [*Satwik Singh*](https://github.com/ssatwik975)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/singhsatwik/) [*Satwik Singh*](https://www.linkedin.com/in/singhsatwik/)
 
 ---
 
-> 🛠️ *Note:*  This project was developed to demonstrate skills in Firebase integration, Flutter UI/UX design, and scalable app architecture using Provider and MVVM.
+ *Note:*  This project was developed to demonstrate skills in Firebase integration, Flutter UI/UX design, and scalable app architecture using Provider and MVVM.
 
